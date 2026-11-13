@@ -1,4 +1,4 @@
-package com.quickkart.dto.auth;
+package com.quickkart.dto;
 
 public record AuthResponse(
 

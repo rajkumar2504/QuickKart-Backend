@@ -1,8 +1,8 @@
 package com.quickkart.service;
 
-import com.quickkart.dto.auth.AuthResponse;
-import com.quickkart.dto.auth.LoginRequest;
-import com.quickkart.dto.auth.RegisterRequest;
+import com.quickkart.dto.AuthResponse;
+import com.quickkart.dto.LoginRequest;
+import com.quickkart.dto.RegisterRequest;
 import com.quickkart.entity.Role;
 import com.quickkart.entity.User;
 import com.quickkart.repository.UserRepository;
